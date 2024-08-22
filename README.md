@@ -1,6 +1,5 @@
 <h1>Hi, I'm Shanmukh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Photographer</a></h1>
 
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
